@@ -1,15 +1,6 @@
 <%@ Language=VBScript %>
  
-<%
-Response.Buffer = true
-Response.CacheControl = "Public"
-Response.Expires = 30
-'  InetPub\wwwroot\Manufacturing\ITLI.asp
-'
-'       Date      Case#    Rep   Status   Summary
-'     --------   -------   ---   ------   -------
-'      05-07-04            MCL   OPEN     Create login page for PPAP team Assignment form
-%>
+
 <!-- #include virtual = "/_private/ADOVBS.inc" -->
  
 <HTML>
